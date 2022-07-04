@@ -1,0 +1,23 @@
+ {
+  margin: 0;
+}
+body {
+  background-color: rgb(201, 188, 212);
+}
+nav {
+  background-color: rgb(218, 186, 186);
+}
+
+.nav-link {
+  font-size: 1.4em;
+  text-decoration: none;
+  margin-right: 0.4em;
+  border: purple solid 0.2em;
+  padding: 0.2em;
+  padding-left: 0.5em;
+}
+
+.nav-link:hover {
+  background-color: black;
+  color: brown;
+}
